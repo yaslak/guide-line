@@ -1,28 +1,34 @@
-# Guidelines & Environment Setup
+# 🛠️ Guidelines & Environment Setup
 
-This repository centralizes my settings, notes, and daily practices.
+This repository centralizes my **settings, notes, and daily practices**.
 It helps me keep track of my work environment and preferences.
 
 ---
 
-## Contents
+## 📂 Contents
 
-- Tool configurations (PhpStorm, etc.)
-- Shortcuts and productivity
-- Notes and guidelines in Markdown
-- Personal resources (wallpapers, sleep mode, etc.)
+![Config](https://img.shields.io/badge/Config-PhpStorm-blue)
 
----
+![Shortcuts](https://img.shields.io/badge/Shortcuts-⌨️-orange)
 
-## Goals
+![Notes](https://img.shields.io/badge/Notes-Markdown-green)
 
-- Document my environment
-- Standardize my practices
-- Quickly set up a new machine
-- Share useful ideas
+![Resources](https://img.shields.io/badge/Resources-Personal-purple)
 
 ---
 
-## License
+## 🎯 Goals
 
-[MIT](./LICENSE) – [Learn more](https://en.wikipedia.org/wiki/MIT_License)
+![Document](https://img.shields.io/badge/Document-Environment-blue)
+
+![Standardize](https://img.shields.io/badge/Standardize-Practices-orange)
+
+![Setup](https://img.shields.io/badge/Quick-Setup-green)
+
+![Share](https://img.shields.io/badge/Share-Ideas-purple)
+
+---
+
+## 📜 License
+
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
