@@ -123,7 +123,10 @@ Add `!` to indicate that it’s an image, not a link.
 public function (Dev $me) {
     do {
         exec($me->code() . " > /dev/null &");
-    } while ($me->soul()->is('alive')));
+    }
+    while (
+        $me->soul()->is(SoulEnum::Alive->value)
+    );
 }
 ```
 
